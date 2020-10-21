@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace taskmgr
 {
     public partial class FormMain : Form
     {
-        const int allMemory = 1024;
+        int allMemory = 0;
         int indexForStop = 77777;
         Boolean checkSelectItem = true;
         int speedProcessor = 100;    //Количество тактов в секунду
@@ -23,9 +24,40 @@ namespace taskmgr
             InitializeComponent();
         }
 
+        //Стартовые настройки
+        public void StartSettings()
+        {
+            string path = "config/StartOS.txt";
+            try
+            {
+                StreamReader sr = new StreamReader(path);
+                {
+                    allMemory = Convert.ToInt32(sr.ReadLine());
+                    string line;
+                    while((line = sr.ReadLine()) != null)
+                    {
+                        string[] parameters = line.Split(',');
+
+                        listBoxPID.Items.Add(Convert.ToInt32(parameters[0]));
+                        listBoxName.Items.Add(parameters[1]);
+                        listBoxStatus.Items.Add(parameters[2]);
+                        listBoxMemory.Items.Add(Convert.ToInt32(parameters[3]));
+                        
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            statusMemory();
+        }
+
         //Загрузка основной формы
         private void Form1_Load(object sender, EventArgs e)
         {
+
+            StartSettings();
             statusMemory();
             listBoxPID.BackColor = Color.Khaki;
             listBoxName.BackColor = Color.Khaki;
@@ -33,6 +65,10 @@ namespace taskmgr
             listBoxPriority.BackColor = Color.Khaki;
             listBoxMemory.BackColor = Color.Khaki;
             textBoxSpeed.Text = speedProcessor.ToString();
+
+            
+
+
             timer1.Enabled = true;
             timer1.Start();
         }
@@ -54,7 +90,6 @@ namespace taskmgr
                 MessageBox.Show("Кончилась память");
             }
             textBoxAboutMemory.Text = currentMemory + " / " + allMemory;
-
         }
 
         //Добавление нового процесса
@@ -83,8 +118,6 @@ namespace taskmgr
 
                 statusMemory();
             }
-                    
-            
         }
 
         //Удаление процесса
@@ -216,6 +249,12 @@ namespace taskmgr
                 textBoxTimer.Text = (time / 10).ToString();
             }
             time++;
+        }
+
+        //Выход
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

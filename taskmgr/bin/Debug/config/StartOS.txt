@@ -1,0 +1,5 @@
+2048
+0,Бездействие системы,Active,8
+4,System,Active,20
+108,Registry,Active,120
+999,Системные прерывания,Active,0
