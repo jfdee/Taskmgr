@@ -1,0 +1,23 @@
+C:\Users\x1\Desktop\taskmgr\taskmgr\bin\Debug\taskmgr.exe.config
+C:\Users\x1\Desktop\taskmgr\taskmgr\bin\Debug\taskmgr.exe
+C:\Users\x1\Desktop\taskmgr\taskmgr\bin\Debug\taskmgr.pdb
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.csprojAssemblyReference.cache
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.Properties.Resources.resources
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.exe
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.pdb
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.MainForm.resources
+C:\Users\x1\Desktop\taskmgr\taskmgr\obj\Debug\taskmgr.AddNewProcessForm.resources
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\bin\Debug\taskmgr.exe.config
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\bin\Debug\taskmgr.exe
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\bin\Debug\taskmgr.pdb
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.csprojAssemblyReference.cache
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.FormMain.resources
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.FormAddNewProcess.resources
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.FormRemoveProcess.resources
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.Properties.Resources.resources
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.GenerateResource.cache
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.CoreCompileInputs.cache
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.exe
+C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.pdb
