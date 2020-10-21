@@ -21,3 +21,26 @@ C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.Generate
 C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.csproj.CoreCompileInputs.cache
 C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.exe
 C:\Users\x1\Desktop\4 курс\taskmgr\taskmgr\obj\Debug\taskmgr.pdb
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.exe.config
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.exe
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.pdb
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormMain.resources
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormAddNewProcess.resources
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormRemoveProcess.resources
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.exe
+C:\Users\user\Desktop\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.pdb
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.exe.config
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.exe
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\bin\Debug\taskmgr.pdb
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormMain.resources
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormAddNewProcess.resources
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.FormRemoveProcess.resources
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.exe
+C:\Users\user\Desktop\Новая папка (3)\Новая папка (2)\Taskmgr\taskmgr\obj\Debug\taskmgr.pdb
